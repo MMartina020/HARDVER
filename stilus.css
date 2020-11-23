@@ -1,0 +1,95 @@
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: medium;
+  background-color: black; 
+}
+
+  }
+    #fokep{
+      width: 100%;
+      height: auto;
+  }
+  footer{
+    background-color: black;
+    padding: 5%;
+    text-align: center;
+  }
+section{
+    height: 300px;
+}
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: rgb(138, 138, 138);
+  }
+  
+  /* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 40px;
+    text-decoration: none;
+  }
+  
+  /* Change color on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color:black;
+  }
+#egy{
+    background-color: rgb(37, 37, 37);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+}
+#ketto{
+    background-color: rgb(88, 88, 88);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+}
+#harom{
+  background-color: rgb(37, 37, 37);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+}
+#negy{
+  background-color: rgb(88, 88, 88);
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(255, 255, 255);
+}
+#ot{
+  background-color: rgb(37, 37, 37);
+  font-size: x-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(255, 255, 255);
+}
+.right {
+  float: right;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+.sor{
+    float: left;
+    width:auto;
+    height: auto;
+}
+
+.oszlop{
+float: left ;
+width:auto;
+height: auto;
+margin:50px;
+
+
+}
+.oszlop2{
+float: right;
+width:auto;
+height: auto;
+margin-right:300px;
+margin-left:100px;
+margin-top: 100px;
+}
